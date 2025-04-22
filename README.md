@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and exploring new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [Your Email](mailto:fmtoha2018@gmail.com)
+- 📫 How to reach me: [fmtoha2018@gmail.com](mailto:fmtoha2018@gmail.com)
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: Python, JavaScript

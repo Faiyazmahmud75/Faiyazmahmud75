@@ -10,7 +10,7 @@
 - Programming Languages: Python, JavaScript
 - Frameworks: React, Django
 - Databases: MySQL, PostgreSQL
-- Tools: Git, Docker, Kubernetes, VS Code
+- Tools: Git, VS Code
 
 <!-- ## 📈 GitHub Stats
 [Faiyazmahmud75's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiyazmahmud75&show_icons=true&theme=radical)
